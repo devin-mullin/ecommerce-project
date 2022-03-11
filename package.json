@@ -8,11 +8,25 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "express": "^4.17.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.7",
     "vite": "^2.8.0"
-  }
+  },
+  "description": "// E-COMMERCE PROJECT",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devin-mullin/ecommerce-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devin-mullin/ecommerce-project/issues"
+  },
+  "homepage": "https://github.com/devin-mullin/ecommerce-project#readme"
 }

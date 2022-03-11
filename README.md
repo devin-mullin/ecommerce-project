@@ -1,3 +1,3 @@
 // E-COMMERCE PROJECT
 
-built with React, TypeScript, and Node.js
+built with React, TypeScript, and Node.js Express
